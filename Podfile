@@ -7,7 +7,7 @@ target 'Kinder' do
 
   # Pods for Kinder
   pod 'Kingfisher', '~> 5.0'
-  pod 'Koloda', '~> 4.3.1'
+  pod 'Koloda', '~> 5.0.1'
   pod 'Moya', '~> 14.0'
 
   target 'KinderTests' do

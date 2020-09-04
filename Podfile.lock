@@ -3,7 +3,7 @@ PODS:
   - Kingfisher (5.14.1):
     - Kingfisher/Core (= 5.14.1)
   - Kingfisher/Core (5.14.1)
-  - Koloda (4.3.1):
+  - Koloda (5.0.1):
     - pop (~> 1.0)
   - Moya (14.0.0):
     - Moya/Core (= 14.0.0)
@@ -13,7 +13,7 @@ PODS:
 
 DEPENDENCIES:
   - Kingfisher (~> 5.0)
-  - Koloda (~> 4.3.1)
+  - Koloda (~> 5.0.1)
   - Moya (~> 14.0)
 
 SPEC REPOS:
@@ -27,10 +27,10 @@ SPEC REPOS:
 SPEC CHECKSUMS:
   Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
   Kingfisher: 8050bc6f7f68cbf3908bd04df7ccbac188f6d6d6
-  Koloda: 0d39b2aa188ccd1fac48d752acaf9802e683c625
+  Koloda: d07b9199a383abc5898b62aa945a599f5e7c0c4b
   Moya: 5b45dacb75adb009f97fde91c204c1e565d31916
   pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
 
-PODFILE CHECKSUM: 0a4f30999a97386e780d82f7258592ec9d7e578d
+PODFILE CHECKSUM: 535bf6253e0af18e408f227239adb37e259ff3be
 
 COCOAPODS: 1.9.1
